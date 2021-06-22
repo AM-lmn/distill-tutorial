@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\nAbout me\nI am Ajay Malik, an incoming senior at William Fremd High School. I like to ride my bike during the summer, and code in R and Python.\nAbout the project\nThis project is titled “Distill Tutorial”, and I have created this project in order to learn how to make websites with Distill\n\n\n\n",
-      "last_modified": "2021-06-22T15:17:43-05:00"
+      "contents": "\nAbout me\nI am Ajay Malik, an incoming senior at William Fremd High School. I like to ride my bike during the summer, and code in R and Python.\nAbout the project\nThis project is titled “Distill Tutorial”, and I have created this project in order to learn how to make websites with Distill\nGoals\nTo learn how to make neat websites using Distill\nTitling is a bit weird but I will figure it out\n\nTo create easy-to-understand visualizations that are available on the web\n“This is data science”\nPreceptor\n\n“Kane’s Free High School Data Science Bootcamp”\n\n\n\n",
+      "last_modified": "2021-06-22T15:39:37-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-06-22T15:16:20-05:00"
+      "last_modified": "2021-06-22T15:39:42-05:00"
     }
   ],
   "collections": []
