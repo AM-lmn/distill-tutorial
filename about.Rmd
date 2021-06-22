@@ -4,7 +4,12 @@ description: |
   Some additional details about the website
 ---
 
+## About me
+I am **Ajay Malik**, an incoming senior at William Fremd High School. I like to ride my bike during the summer, and code in R and Python.
+
+## About the project
+This project is titled *"Distill Tutorial"*, and I have created this project in order to learn how to make websites with Distill
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-

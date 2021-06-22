@@ -5,16 +5,16 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-22T15:00:16-05:00"
+      "contents": "\nAbout me\nI am Ajay Malik, an incoming senior at William Fremd High School. I like to ride my bike during the summer, and code in R and Python.\nAbout the project\nThis project is titled “Distill Tutorial”, and I have created this project in order to learn how to make websites with Distill\n\n\n\n",
+      "last_modified": "2021-06-22T15:17:43-05:00"
     },
     {
       "path": "index.html",
-      "title": "How Well Do Your High School Grades Predict Your Future Salary?",
+      "title": "Distill Tutorial",
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-06-22T15:00:23-05:00"
+      "last_modified": "2021-06-22T15:16:20-05:00"
     }
   ],
   "collections": []
